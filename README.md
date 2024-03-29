@@ -14,7 +14,7 @@ Our approach involves a convolutional neural network (CNN) that has been trained
 - **Sklearn:** Provided algorithms for machine learning tasks and evaluation metrics.
 
 ## Outcome
-The project successfully developed a CNN model that can classify MRI images with high accuracy. The model's performance was thoroughly evaluated using a range of metrics, including a confusion matrix and accuracy scores.
+The project successfully developed a CNN model that can classify MRI images with 100% accuracy. The model's performance was thoroughly evaluated using a range of metrics, including a confusion matrix and accuracy scores.
 
 ## Achievements
 - Developed a machine learning model capable of detecting brain tumors with a **100% accuracy rate** in the testing phase.
