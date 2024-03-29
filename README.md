@@ -33,7 +33,3 @@ The project successfully developed a CNN model that can classify MRI images with
 - Implement the model in a web-based application for easier access by healthcare professionals.
 - Collaborate with medical institutions for clinical trials and further validation.
 
-For more detailed information on the usage, scripts, and methodology, refer to the respective sections of this README and the accompanying documentation.
-
-Thank you for taking an interest in our Brain Tumor Detection project. Contributions and feedback are welcome!
-
