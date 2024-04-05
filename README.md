@@ -1,7 +1,7 @@
 # Brain Tumor Detection Using Convolutional Neural Networks (CNN)
 
 ## Why This Project?
-The Brain Tumor Detection project aims to utilize advanced machine learning techniques to improve the accuracy and efficiency of diagnosing brain tumors from MRI scans. This project is motivated by the need to assist radiologists in making faster, more reliable diagnoses, which can be crucial for the treatment and survival of patients with brain tumors.
+The project uses advanced machine learning techniques to improve the accuracy and efficiency of diagnosing brain tumors from MRI scans. This is motivated by the need to assist radiologists in making faster and more reliable diagnoses, which can be crucial for the treatment and survival of patients with brain tumors.
 
 ## How It Works
 Our approach involves a convolutional neural network (CNN) that has been trained on a substantial dataset of MRI images. These images are preprocessed to enhance their quality and uniformity, making them suitable for the model to learn from. The CNN architecture is designed to extract features and patterns that are indicative of the presence of a tumor.
